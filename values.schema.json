@@ -34,7 +34,7 @@
     },
     "secretProviderClass": {
       "additionalProperties": {
-        "$ref": "schemas/secretProviderClass.json#/instance"
+        "$ref": "schemas/secretProviderClass.json"
       }
     },
     "configMaps": {
