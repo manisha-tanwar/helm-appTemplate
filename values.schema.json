@@ -76,6 +76,11 @@
       "additionalProperties": {
         "$ref": "schemas/persistence.json#/item"
       }
+    },
+    "rawResources": {
+      "additionalProperties": {
+        "$ref": "schemas/rawResource.json#/instance"
+      }
     }
   }
 }
